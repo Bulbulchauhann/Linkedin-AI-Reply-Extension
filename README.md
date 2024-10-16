@@ -4,6 +4,8 @@ This Chrome extension enhances LinkedIn messaging by providing an AI-powered mod
 
 ## Tutorial
 
+https://github.com/user-attachments/assets/b1098daa-6e35-4242-81b9-763f217ba8bb
+
 
 ## How to Run
 
