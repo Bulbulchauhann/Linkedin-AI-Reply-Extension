@@ -11,17 +11,25 @@ https://github.com/user-attachments/assets/b1098daa-6e35-4242-81b9-763f217ba8bb
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Bulbulchauhann/Linkedin-AI-Reply-Extension.git
    
 2. Navigate to the project directory:
    ```bash
-   cd <project-directory>
-   
-3. Open Chrome and go to chrome://extensions/.
-   
-4. Enable "Developer mode" and click "Load unpacked".
+   cd Linkedin-AI-Reply-Extension
 
-5. Select the project folder to load the extension.
+3. Install dependencies:
+   ```bash
+    npm install
+   
+4. Build the project:
+   ```bash
+   npm run build
+   
+5. Open Chrome and go to chrome://extensions/.
+   
+6. Enable "Developer mode" and click "Load unpacked".
+
+7. Select the project folder to load the extension.
 
 
 ## Testing
